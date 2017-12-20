@@ -2,7 +2,7 @@
 
 Persistent data structures in C for memory-managed systems.
 
-Currently built for use with [Acid](brick-lang/acid).
+Currently built for use with [Acid](https://github.com/brick-lang/acid).
 
 ------------------------------------
 
