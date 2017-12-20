@@ -1,4 +1,4 @@
-add_library(gypsum gypsum.c stack.c bst.c)
+add_library(gypsum gypsum.c stack.c treeset.c)
 
 # target_link_libraries(gypsum acid)
 
