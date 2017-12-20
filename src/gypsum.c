@@ -1,2 +1,2 @@
 
-void no(){}
+void no() {}

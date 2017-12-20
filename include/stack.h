@@ -4,9 +4,9 @@
 #include <stdbool.h>
 #include <stddef.h>
 
-typedef struct stack_t {
+typedef const struct stack_t {
   void* val;
-  struct stack_t* next;
+  const struct stack_t* next;
 } stack_t;
 
 stack_t* stack_empty();
